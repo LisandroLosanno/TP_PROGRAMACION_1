@@ -9,12 +9,10 @@
  */
 
 
-
 #include <stdio.h>
 #include <stdlib.h>
 
 int menu (int,float,float);
-
 
 int calcularKilometros(); // PUNTO 1
 
@@ -54,7 +52,6 @@ int main(void)
 		float latamBtc;
 		float latamPxKm;
 		float difPrecioAeroLatam;
-
 
 	    char salir = 'n';
 
